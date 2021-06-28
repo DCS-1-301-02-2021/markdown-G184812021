@@ -4,6 +4,7 @@
 #🍊概要
 
 *高度情報化が進展している現代社会において、ITを利活用できる知識や技能は必要不可欠です。情報工学科では、基礎スキルから高度なスキルを段階的に学べるプログラミング教育、進路を見据えた幅広いコース選択によって着実な知識を身につけ、卒業研究によって、主体性、課題に対する洞察力、解決のためのコミュニケーション能力等、実社会に役立つ総合的能力を修得します。*
+![logo](https://2.bp.blogspot.com/-Gp2_6OZJ1FQ/XASwZmJF9yI/AAAAAAABQZ0/C8dUDl0e_uEWbDjvwNAo8DArlJX4vIaFwCLcBGAs/s800/computer_programming_man.png)
 #🍊コース
 __２年次からコースを選択できます。__
 ###通常コース
